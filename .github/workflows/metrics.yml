@@ -38,17 +38,10 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .user.login
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_tweets: yes
