@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://susheelvarma.com/assets/images/profile.jpg"  />
+  <img height="150" src="https://susheelvarma.com/assets/images/avatar.png"  />
 </div>
 
 ###
